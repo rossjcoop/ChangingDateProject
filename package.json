@@ -1,0 +1,19 @@
+{
+  "name": "dailyproject7_24_17",
+  "version": "1.0.0",
+  "description": "Different Current Time Data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/rossjcoop/ChangingDateProject.git"
+  },
+  "author": "Ross James Cooper the great",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rossjcoop/ChangingDateProject/issues"
+  },
+  "homepage": "https://github.com/rossjcoop/ChangingDateProject#readme"
+}
