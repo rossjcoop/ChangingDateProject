@@ -6,14 +6,15 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+ssh://git@github.com/rossjcoop/ChangingDateProject.git"
-  },
+  "repository": "git+ssh://git@github.com/rossjcoop/ChangingDateProject.git",
   "author": "Ross James Cooper the great",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/rossjcoop/ChangingDateProject/issues"
   },
-  "homepage": "https://github.com/rossjcoop/ChangingDateProject#readme"
+  "homepage": "https://github.com/rossjcoop/ChangingDateProject#readme",
+  "dependencies": {
+    "chalk": "^2.0.1",
+    "moment": "^2.18.1"
+  }
 }
